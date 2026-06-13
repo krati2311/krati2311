@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Kratika%20Saxena&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=LNMIIT%20%7C%20B.Tech%20CSE%20Student&descAlignY=58&color=0:6a11cb,50:8e2de2,100:da22ff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Kratika%20Saxena&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&color=0:6a11cb,50:8e2de2,100:da22ff"/>
 </p>
 
 <h3 align="center">✨ Welcome to my GitHub Profile ✨</h3>
@@ -18,7 +18,6 @@
 
 # 🌸 About Me
 
-- 🎓 First Year **B.Tech CSE Student** at **LNMIIT Jaipur**
 - 💻 Passionate about **Coding, DSA & Problem Solving**
 - 🚀 Exploring **Competitive Programming**
 - 🌱 Currently improving in **Algorithms & Development**
